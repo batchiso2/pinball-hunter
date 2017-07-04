@@ -1,2 +1,2 @@
 # pinball-hunter
-repository for D8 immersion course demo site
+repository for my D8 immersion course project site
